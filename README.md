@@ -3,7 +3,7 @@
 
 Mini Notebook LM is a sophisticated Retrieval-Augmented Generation (RAG) system that transforms document interaction through advanced natural language processing. By combining OpenAI's powerful GPT models with LangChain's document processing capabilities, users can easily extract insights from their documents through a streamlined Streamlit interface.
 
-Experience The App: [Mini Note Book LM](https://mininotebooklm.streamlit.app)
+👉 👉 Experience The App: [Mini Note Book LM](https://mininotebooklm.streamlit.app) 👈 👈
 
 ## 🖥️ User Interface
 <img src="/images/src-1.png" alt="Document Upload Interface" />
